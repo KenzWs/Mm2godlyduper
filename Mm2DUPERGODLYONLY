@@ -185,14 +185,14 @@ Tab3:AddButton({
 })
 
 local Tab4 = Window:MakeTab({
-    Name = "Errors/Bugs?❗",
+    Name = "Trade Lag",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
 
 Tab4:AddParagraph("My Discord server 🎩","Join my discord server if u need help with bugs/errors on the script I made. You can also talk to improve the script more")
 Tab4:AddButton({
-    Name = "Copy Link To Discord Server 🎯",
+    Name = "Force Accept",
     Callback = function()
         setclipboard("https://discord.com/invite/rgG2qWRs")
         print("button pressed")
@@ -201,5 +201,6 @@ Tab4:AddButton({
 
 Tab4:AddParagraph("Read-[📕]","Please don't click the dupe buttons twice or multiple times; this WILL cause errors❗")
 Tab4:AddParagraph("Credits-⭐","All Coded And Made By PzDuverHubYT")
+Tab4:AddParagraph("Trade Scam","DO NOT LEAVE once clicked wait for 10 minutes")
 
 OrionLib:Init()
