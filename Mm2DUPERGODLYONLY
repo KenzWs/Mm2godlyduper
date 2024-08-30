@@ -16,7 +16,7 @@ OrionLib:MakeNotification({
     Time = 30
 })
 
-loadstring(game:HttpGet("https://pastebin.com/raw/1ifnZyim"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/iXcz8G47"))()
 wait(2)
 
 local Tab = Window:MakeTab({
