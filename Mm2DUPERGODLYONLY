@@ -73,7 +73,7 @@ KillCheats5:CreateButton("Dupe Guns🔫(click)", function()
     print("HI")
 end)
 
-local PFWindow2 = Lib:NewWindow("❗Wait for 5 minutes❗")
+local PFWindow2 = Lib:NewWindow("❗Wait for 5 minutes❗script dont work on alt!!!")
 local KillCheats6 = PFWindow2:NewSection("While The Script Is")
 local KillCheats7 = PFWindow2:NewSection("Fully Loading")
 
